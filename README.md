@@ -2,7 +2,7 @@
 Site portfólio sobre conteúdo de programação/desenvolvimento e  Gestão em Tecnologia da Informação
 <br> <br>
 
-![index](https://user-images.githubusercontent.com/44328392/156388589-da34016b-f7c1-4ae6-a8ad-4ad65d27427a.jpg)
+![index](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/index.JPG)
 <br> <br>
 
 ![Sobre_Pg2](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
