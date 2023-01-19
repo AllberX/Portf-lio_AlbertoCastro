@@ -5,16 +5,16 @@ Site portfólio sobre conteúdo de programação/desenvolvimento e  Gestão em T
 ![index](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/index.JPG)
 <br> <br>
 
-![Sobre_Pg2](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
+![Sobre_Pg2](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/Sobre_Pg2.JPG)
 <br> <br>
 
-![Conhecimentos_Pg3](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
+![Conhecimentos_Pg3](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/Conhecimentos_Pg3.JPG)
 <br> <br>
 
-![Academico_Pg4](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
+![Academico_Pg4](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/Academico_Pg4.JPG)
 <br> <br>
 
-![Blog_Pg5](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
+![Blog_Pg5](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/Blog_Pg5.JPG)
 <br> <br>
 
-![WorkFlow_pg6](https://user-images.githubusercontent.com/44328392/156388599-dc94404a-9e26-40b0-b842-aee7a7653c2c.jpg)
+![WorkFlow_pg6](https://github.com/AllberX/Portf-lio_AlbertoCastro/blob/main/Portf%C3%B3lio_AlbertoCastro-Gest%C3%A3oDeTickets/Prints.js/WorkFlow_pg6.JPG)
